@@ -1,0 +1,11 @@
+1, Zakinthos, charter
+2, Londra, avion
+3, Marrakech, vapor
+4, Paris, masina
+5, Cluj-Napoca, tren
+6, Bali, avion
+7, aaaaaaaa, bbbbbbbb
+8, ye, yee
+22, la magazin, pe jos
+43, Cluj-Napoca, metro
+1, a, ad
